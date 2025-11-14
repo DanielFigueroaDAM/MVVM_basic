@@ -16,3 +16,5 @@ En esta rama vamos a usar corrutinas:
 
 - En el ViewModel con la función `estadosAuxiliares` utilizando `viewModelScope.launch { }`
 - En la IU con `LaunchedEffect(_activo)` en el botón start
+
+DANIEL FIGUEROA VIDAL
